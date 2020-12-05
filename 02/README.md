@@ -1,4 +1,4 @@
-# Day 2
+# [Day 2](https://adventofcode.com/2020/day/2)
 
 * [Solution](./day02.py)
 * [Data](./data)
